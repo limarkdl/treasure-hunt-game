@@ -1,0 +1,13 @@
+.Separator {
+    margin: 10px 0 20px 0;
+    height: 4px;
+    background-color: var(--inverted-bg-color);
+}
+
+.Full {
+    width: 100%;
+}
+
+.Half {
+    width: 50%;
+}
